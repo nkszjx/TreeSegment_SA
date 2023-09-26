@@ -68,16 +68,6 @@ Parts of the code have been adapted from:
 ## Citation
 
 ```
-@article{GUO20231,
-title = {Nationwide urban tree canopy mapping and coverage assessment in Brazil from high-resolution remote sensing images using deep learning},
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-volume = {198},
-pages = {1-15},
-year = {2023},
-issn = {0924-2716},
-doi = {https://doi.org/10.1016/j.isprsjprs.2023.02.007},
-url = {https://www.sciencedirect.com/science/article/pii/S0924271623000461},
-author = {Jianhua Guo and Qingsong Xu and Yue Zeng and Zhiheng Liu and Xiao Xiang Zhu},
-}
+
 ```
 
