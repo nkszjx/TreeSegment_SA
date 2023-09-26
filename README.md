@@ -26,7 +26,7 @@ A standard binary classification network was designed as the discriminator (c) i
 
 ### Tree segmentation results
 ![](/figure/tree.png)
-![](/figure/SaoPaulo.png)
+
 
 ### Comparison with state-of-the-art databases
 ![](/figure/datasets.png)
