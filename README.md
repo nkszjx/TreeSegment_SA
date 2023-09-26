@@ -34,9 +34,6 @@ A standard binary classification network was designed as the discriminator (c) i
 ![](/figure/datasets.png)
 
 
-### Urban tree canopy coverage in 888 South American cities
-![](/figure/TreeCover.png)
-
 ## Package pre-requisites
 The code runs on Python 3 and Pytorch 0.4 The following packages are required. 
 
