@@ -12,11 +12,21 @@ A standard binary classification network was designed as the discriminator (b) i
 ![](/figure/deeplab_discriminator.png)
 
 ## Results
+
+### Urban mask segmentation results
+![](/figure/urbanmask.png)
+
 ### Tree segmentation results
 ![](/figure/tree.png)
+![](/figure/SaoPaulo.png)
+![](/figure/SaoPaulo.png)
 
-### Urban tree canopy cover in Brazil
-![](/figure/Graphical.png)
+### Comparison with state-of-the-art databases
+![](/figure/datasets.png)
+
+
+### Urban tree canopy coverage in 888 South American cities
+![](/figure/TreeCover.png)
 
 ## Package pre-requisites
 The code runs on Python 3 and Pytorch 0.4 The following packages are required. 
