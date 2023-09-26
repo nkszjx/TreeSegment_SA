@@ -2,7 +2,9 @@
 
 
 
-This is the pytorch codes for our paper: UTCSA: A 0.5m Resolution Urban Tree Canopy Dataset for 888 Cities in South America and Its Pilot Applications (Submitted to Remote Sensing of Environment)
+This is the pytorch codes for our paper: UTCSA: A 0.5m Resolution Urban Tree Canopy Dataset for 888 Cities in South America and Its Pilot Applications (Submitted to Remote Sensing of Environment).
+
+##
 To better service South America’s urban ecosystem, we developed a semi-supervised deep learning method, which is able to learn semantic segmentation knowledge from both labeled and unlabeled images, to segment urban trees from high spatial resolution remote sensing images. The approach attains significant improvement over existing methods, especially when trained with limited labeled samples. 
 Using this approach, we created 0.5 m fine-scale tree canopy products for 888 cities in South America. The created UTC map products of 888 cities in South America were freely accessible at ([UTCSA](https://drive.google.com/drive/folders/1dlAOe4zDY9mYkxniSrUh8pZfQlzl12Gd?usp=drive_linkk)).
 
