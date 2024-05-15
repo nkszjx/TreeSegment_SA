@@ -73,7 +73,7 @@ Guo, Jianhua, Zhiheng Liu, and Xiao Xiang Zhu. "Assessing the macro-scale patter
 
 Guo, Jianhua, Danfeng Hong, and Xiao Xiang Zhu. "High-resolution satellite images reveal the prevalent positive indirect impact of urbanization on urban tree canopy coverage in South America." Landscape and Urban Planning 247 (2024): 105076.
 
-Guo, Jianhua, Danfeng Hong, and Xiao Xiang Zhu. "Continent-wide urban tree canopy fine-scale mapping and coverage assessment in South America with high-resolution satellite images." ISPRS Journal of Photogrammetry and Remote Sensing (Minor revision 12/04/2024)
+Guo, Jianhua, Danfeng Hong, and Xiao Xiang Zhu. "Continent-wide urban tree canopy fine-scale mapping and coverage assessment in South America with high-resolution satellite images." ISPRS Journal of Photogrammetry and Remote Sensing 212 (2024):251-273.
 
 
 
